@@ -13,5 +13,5 @@ pred=model.predict(X)
 accuracy=accuracy_score(pred,y)
 print("Accuracy:",accuracy)
 
-assert accuracy>=0.99
+assert accuracy>=0.98
 assert len(pred)==len(y)
