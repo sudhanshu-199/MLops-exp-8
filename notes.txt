@@ -1,0 +1,4 @@
+CI/CD
+1.Retraining 
+2.Test the new model
+3.Push the model to the registry 
